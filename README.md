@@ -23,6 +23,7 @@ python3 run.py
 python3 manage.py server
 ```
 ## Live link
+https://blair-newsapi.herokuapp.com/
 
 ## Technologies Used
 * Python
